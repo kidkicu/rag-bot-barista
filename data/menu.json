@@ -1,0 +1,8 @@
+[
+    {"id":"latte","name":"Caffè Latte","price":3.5,"tags":["milk","espresso"],"allergens":["dairy"]},
+    {"id":"capp","name":"Cappuccino","price":3.2,"tags":["milk","espresso"],"allergens":["dairy"]},
+    {"id":"amo","name":"Americano","price":2.8,"tags":["espresso","diluted"]},
+    {"id":"mocha","name":"Mocha","price":4.0,"tags":["chocolate","milk","espresso"],"allergens":["dairy"]},
+    {"id":"oatlatte","name":"Oat Latte","price":4.2,"tags":["milk-alt","espresso"],"allergens":[]}
+  ]
+  
