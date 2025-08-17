@@ -1,3 +1,10 @@
-.venv
+.venv/
+venv/
 .env
-__pychche__
+__pychche__/
+*.pyc
+*.pyo
+*.pyd
+chat_history.json
+chroma_db/
+.vscode/
